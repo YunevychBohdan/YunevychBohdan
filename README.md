@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YunevychBohdan
 - 👀 I’m interested in programming <3
-- 🌱 I’m currently learning in collage
+- 🌱 I’m currently studying in collage
 - 📫 How to reach me -___-
 
 <!---
